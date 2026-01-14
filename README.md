@@ -1,5 +1,5 @@
 # About Me:
-👋 Hey there, I’m Min!<br><br>🏗️ I’m currently working on<br>Building Limau, an insurance superplatform that manages all your insurance in one place <br><br>🤝 I’m looking to collaborate on<br>Cool AI, edtech, or hackathon projects that make life easier for students 💡<br><br>🧠 I’m currently learning<br>More about backend development, AI agents, and deploying full-stack apps 🚀<br><br>⚡ Fun fact<br>I can spend hours perfecting an API route… and forget to eat 🍜
+👋 Hey there, I’m Min!<br><br>🏗️ I’m currently working on<br>Building Illoominate, a mobile app that helps parents engage with their children<br><br>🤝 I’m looking to collaborate on<br>Cool AI, edtech, or hackathon projects that make life easier for students 💡<br><br>🧠 I’m currently learning<br>More about backend development, AI agents, and deploying full-stack apps 🚀<br><br>⚡ Fun fact<br>I can spend hours perfecting an API route… and forget to eat 🍜
 
 
 # 💻 Tech Stack:
